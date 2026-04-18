@@ -1,21 +1,10 @@
 # Contact Information
 
 ## Email:
-[Your Email Here]
+espachecogamedev@gmail.com
 
 ## LinkedIn:
-[Your LinkedIn URL Here]
+https://www.linkedin.com/in/eric-pacheco-6a8072335/
 
 ## GitHub:
-[Your GitHub URL Here]
-
-## Discord:
-[Your Discord Username Here]
-
-## Availability Status:
-[Available/Not Available]
-
----
-
-### Collaboration Message:
-Feel free to reach out to collaborate on interesting projects!
+https://github.com/espacheco
