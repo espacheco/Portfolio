@@ -2,14 +2,14 @@
 
 **Game Programmer | UI/AI Specialist | Unreal Engine Developer**
 
-Welcome to my portfolio! I'm a passionate game developer with expertise in UI programming, AI systems, and gameplay mechanics. I specialize in Unreal Engine and have experience across multiple programming disciplines to create engaging and polished game experiences.
+I'm a passionate game developer with expertise in UI programming, AI systems, and gameplay mechanics. I specialize in Unreal Engine and have experience across multiple programming disciplines to create engaging and polished game experiences.
 
 ---
 
 ## 🎯 Specializations
 
 - **UI Programming** - Complex menus, HUDs, responsive interfaces
-- **AI Programming** - Behavior trees, decision-making systems, NPC intelligence
+- **AI Programming** - Behavior trees, decision-making systems
 - **Gameplay Programming** - Game mechanics, systems design, prototyping
 - **Engine Development** - C++, performance optimization, debugging
 
@@ -32,14 +32,14 @@ Welcome to my portfolio! I'm a passionate game developer with expertise in UI pr
 ### 🎮 ENDProject
 **Third-person shooter foundation: Blueprint-to-C++ conversion project**
 - **Engine:** Unreal Engine
-- **Language:** C++ (converted from Blueprints)
+- **Language:** C++
 - **Focus:** Core systems, architecture, gameplay foundations
 - **Repository:** [ENDProject](https://github.com/espacheco/ENDProject)
 - **Key Features:**
   - Player character and AI agent implementation
   - Custom menu system
   - Damage and health systems
-  - Collectible pickups (health & damage restoration)
+  - Collectible pickups
   - Blueprint-to-code conversion demonstration
 
 ---
@@ -47,14 +47,14 @@ Welcome to my portfolio! I'm a passionate game developer with expertise in UI pr
 ## 🛠️ Technical Skills
 
 ### Languages
-- **C++** (Primary)
-- **C#** (Secondary)
-- **Blueprints** (Unreal Visual Scripting)
+- **C++**
+- **C#**
+- **Blueprints**
 
 ### Game Engines & Tools
-- **Unreal Engine** ⭐ (Advanced)
-- **Unity** (Intermediate)
-- **Perforce** (Version Control)
+- **Unreal Engine**
+- **Unity**
+- **Perforce**
 - **Git/GitHub**
 
 ### Programming Disciplines
@@ -72,9 +72,8 @@ Welcome to my portfolio! I'm a passionate game developer with expertise in UI pr
 ✅ Developed complex UI systems for player interaction and feedback
 ✅ Implemented intelligent AI behavior trees and decision-making systems
 ✅ Designed and programmed core gameplay mechanics and systems
-✅ Collaborated on large-scale game projects using Perforce version control
+✅ Collaborated on game projects using Perforce version control
 ✅ Proficient in C++ for performance-critical game code
-✅ Experience converting visual scripting (Blueprints) to production C++ code
 
 ---
 
@@ -83,5 +82,5 @@ Welcome to my portfolio! I'm a passionate game developer with expertise in UI pr
 I'm always excited to discuss game development, share ideas, and explore new opportunities in the gaming industry!
 
 - **GitHub:** [@espacheco](https://github.com/espacheco)
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** espachecogamedev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/eric-pacheco-6a8072335/
